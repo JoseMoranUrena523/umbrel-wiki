@@ -10,7 +10,7 @@ Please refer to our [blog post on our license](https://blog.getumbrel.com/everyt
 If you're using Umbrel for personal or nonprofit purposes, you enjoy nearly all freedoms that come with an open source license, including the ability to view, modify, and redistribute Umbrel's source code.
 
 ### Can I fork Umbrel?
-Yes, as long as your intended use is noncommercial, you're free to fork, modify and redistribute Umbrel.
+Yes, as long as your intended use is noncommercial, you're free to fork, modify and redistribute Umbrel under the same license terms.
 
 ### Can I contribute to Umbrel?
 Sure! We love and appreciate contributions received from the community.
