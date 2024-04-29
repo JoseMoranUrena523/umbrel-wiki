@@ -14,7 +14,7 @@
 - Download and install [Balena Etcher](https://www.balena.io/etcher/) on your computer.
 - Plug a USB stick (at least 4GB) into your computer. Ensure that it doesn't contain any important data as it will be formatted.
 - Use Balena Etcher to flash the `umbrelos-amd64-usb-installer.img.xz` file to the USB stick.
-![](https://global.discourse-cdn.com/standard14/uploads/getumbrel/optimized/2X/2/2c35e1c62f8113490a6efd198074b010bd3e840d_2_1380x894.png)
+![image](https://github.com/getumbrel/umbrel/assets/10330103/b67f31f5-95d0-4ad5-8945-76bf32b1b8e3)
 
 #### Step 2: Boot from USB stick
 - Remove the USB stick from your computer, and insert it into your device.
@@ -25,7 +25,7 @@
 
 #### Step 3: Install umbrelOS on internal storage
 - After the system boots up, it will present you with the following screen:
-![](https://global.discourse-cdn.com/standard14/uploads/getumbrel/original/2X/c/ca5f7937fb4bafaf5b21305de9f46eece3ec545f.png)
+![umbrelos-usb-installer-3](https://github.com/getumbrel/umbrel/assets/10330103/e8c23d0e-230d-48e0-a77a-a1ffc2d5293c)
 - Identify the correct internal storage device where you intend to install umbrelOS, and note its corresponding number. For instance, in the above screenshot, if we want to install it on the 'ATA' drive, which has a capacity of '238.5G', we'd type '1' (without the quotes) and press Enter.
 
 #### Step 4: Finalize installation
