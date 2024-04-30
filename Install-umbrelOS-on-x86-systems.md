@@ -21,7 +21,7 @@
 - Connect a display and keyboard to your device (for desktops or NUCs/Mini PCs). 
 - Plug an Ethernet cable into your device and connect it to your internet router.
 - Turn on the device. It should automatically boot from the USB stick.
-> If your device doesn't automatically boot from the USB stick, you might need to change the boot priority order in your its BIOS settings.
+> If your device doesn't automatically boot from the USB stick, you might need to change the boot priority order in its BIOS settings.
 
 #### Step 3: Install umbrelOS on internal storage
 - After the system boots up, it will present you with the following screen:
