@@ -39,10 +39,14 @@
 
 - Turn on your device.
 
-- The first boot will take ~5 minutes. After booting up, you can access umbrelOS by navigating to `http://umbrel.local` on any device connected to the same network.
+- The first boot will take ~5 minutes. After booting up, you can access umbrelOS by navigating to [http://umbrel.local](http://umbrel.local) on any device connected to the same network.
+
+> [!NOTE]
+> **Important**: If you have a display connected to your device, you might notice the `umbrel login` prompt in the terminal output. This prompt is for terminal access only. To use umbrelOS, there is no need to log in via the terminal. Instead, simply open [http://umbrel.local](http://umbrel.local) on any device that is connected to the same network to access the user interface.
+
 
 > [!TIP]
-> If you cannot access `http://umbrel.local`, and you are using a Windows computer, try accessing `http://umbrel`. Alternatively, use your router's admin dashboard or a network scanning tool like 'Fing' to find your device's IP address on your local network. If needed, you can connect a display and a keyboard to your device, log in, and run `hostname -I` to find its IP address. Then, enter this IP address directly into a web browser to access umbrelOS.
+> If you cannot access [http://umbrel.local](http://umbrel.local), and you are using a Windows computer, try accessing [http://umbrel](http://umbrel). Alternatively, use your router's admin dashboard or a network scanning tool like 'Fing' to find your device's IP address on your local network. If needed, you can connect a display and a keyboard to your device, log in, and run `hostname -I` to find its IP address. Then, enter this IP address directly into a web browser to access umbrelOS.
 
 ## Support
 
