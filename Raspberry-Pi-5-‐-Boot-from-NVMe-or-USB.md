@@ -32,4 +32,4 @@ The steps to install umbrelOS in this configuration are similar to [installing u
 8. And that's it! Wait for a few minutes for umbrelOS to boot up. You can access umbrelOS by navigating to http://umbrel.local on any device connected to the same network.
 
 > [!WARNING]
-> The boot order on our Raspberry Pi 5 is set to boot from a microSD card preferentially before booting from NVMe or USB. Make sure that you do not have a bootable microSD card inserted when booting from NVMe or USB. If you have a microSD card inserted, the Raspberry Pi 5 will boot from the microSD card instead of the NVMe or USB drive.
+> The boot order on your Raspberry Pi 5 is set to boot from a microSD card preferentially before booting from NVMe or USB. Make sure that you do not have a bootable microSD card inserted when booting from NVMe or USB. If you have a microSD card inserted, the Raspberry Pi 5 will boot from the microSD card instead of the NVMe or USB drive.
