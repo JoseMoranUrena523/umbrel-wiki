@@ -1,13 +1,16 @@
 > [!NOTE]
 > Booting from NVMe or USB instead of a microSD card is only supported on Raspberry Pi 5 for umbrelOS 1.2.0 and later. Raspberry Pi 4 is not supported.
 
+> [!WARNING]
+> Certain NVMe drives may not be compatible with specific NVMe HATs. Additionally, some NVMe drives are of poor quality or have reported issues that could affect performance and reliability. It is crucial to check the compatibility of your NVMe drive with the HAT you are using before proceeding. HAT manufacturers typically provide lists of compatible drives and known quality issues on their websites. Using a drive not on the compatible list may result in instability or failure to boot.
+
 umbrelOS 1.2.0 and later supports booting umbrelOS from NVMe or USB on Raspberry Pi 5. This allows you to run umbrelOS without a microSD card.
 
 The steps to install umbrelOS in this configuration are similar to [installing umbrelOS from a microSD card](https://umbrel.com/umbrelos#install), with the exception that you need to flash the umbrelOS image to an NVMe drive or USB drive instead of a microSD card, and you may need to update the bootloader firmware on your Raspberry Pi 5.
 
 ## What you will need
 - Raspberry Pi 5
-- Either an NVMe drive + hat or USB drive (depending on your preference)
+- Either an NVMe drive + HAT or USB drive (depending on your preference)
 - Official Raspberry Pi power supply
 - Ethernet cable
 
