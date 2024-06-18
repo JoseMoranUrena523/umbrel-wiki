@@ -18,7 +18,7 @@ The steps to install umbrelOS in this configuration are similar to [installing u
 > [!NOTE]
 > If you have an early Raspberry Pi 5 model, you may need to update the bootloader firmware in order to be able to boot from NVMe. If this is the case, please follow the official Raspberry Pi documentation on how to update the bootloader firmware: https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#bootloader_update_stable
 
-1. Download the latest [umbrelOS image](https://download.umbrel.com/release/1.2.0-beta.1/umbrelos-pi5.img.zip) for Rasberry Pi 5.
+1. Download the latest [umbrelOS image](https://download.umbrel.com/release/latest/umbrelos-pi5.img.zip) for Rasberry Pi 5.
 
 2. Download [Balena Etcher](https://etcher.balena.io/) on your computer. It is required to flash the umbrelOS image that you downloaded in the previous step to your NVMe or USB drive.
 
