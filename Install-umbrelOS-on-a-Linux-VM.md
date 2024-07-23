@@ -8,7 +8,7 @@
 ## How to install
 
 #### Step 1: Prepare the installer ISO
-- Download umbrelOS 1.1.2 USB installer [umbrelos-amd64-usb-installer.iso.xz](https://download.umbrel.com/release/1.1.2/umbrelos-amd64-usb-installer.iso.xz) on your computer.
+- Download the latest umbrelOS USB installer [umbrelos-amd64-usb-installer.iso.xz](https://download.umbrel.com/release/latest/umbrelos-amd64-usb-installer.iso.xz) on your computer.
 - Decompress the `.iso.xz` file to get the `.iso` file.
 
 > [!NOTE]
