@@ -10,7 +10,7 @@
 ## How to install
 
 #### Step 1: Prepare a bootable USB stick
-- Download the [latest umbrelOS USB installer](https://download.umbrel.com/1.2.1/umbrelos-amd64-usb-installer.iso) on your computer.
+- Download the [latest umbrelOS USB installer](https://download.umbrel.com/release/latest/umbrelos-amd64-usb-installer.iso.xz) on your computer.
 - Download and install [Balena Etcher](https://www.balena.io/etcher/) on your computer.
 - Plug a USB stick (at least 4GB) into your computer. Ensure that it doesn't contain any important data as it will be formatted.
 - Use Balena Etcher to flash the `umbrelos-amd64-usb-installer.iso` file to the USB stick.
