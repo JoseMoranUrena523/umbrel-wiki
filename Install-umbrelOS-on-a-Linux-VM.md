@@ -7,9 +7,8 @@
 
 ## How to install
 
-#### Step 1: Prepare the installer ISO
-- Download the latest umbrelOS USB installer [umbrelos-amd64-usb-installer.iso.xz](https://download.umbrel.com/release/latest/umbrelos-amd64-usb-installer.iso.xz) on your computer.
-- Decompress the `.iso.xz` file to get the `.iso` file.
+#### Step 1: Download the installer ISO
+- Download the latest umbrelOS USB installer [umbrelos-amd64-usb-installer.iso](https://download.umbrel.com/1.2.2/umbrelos-amd64-usb-installer.iso) on your computer.
 
 > [!NOTE]
 > The following steps to create and boot a VM are general guidelines. Please refer to your VM software's documentation for specific instructions.
