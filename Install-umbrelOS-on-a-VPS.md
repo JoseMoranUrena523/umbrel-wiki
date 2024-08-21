@@ -1,5 +1,5 @@
 > [!NOTE]
-> You’ll be installing Umbrel 0.5.4, as most VPS providers do not support booting from an ISO. Please be aware that this version is now deprecated. We recommend using the latest version of [UmbrelOS](https://umbrel.com/umbrelos#install) to benefit from the most recent security updates and bug fixes.
+> You’ll be installing Umbrel 0.5.4, as most VPS providers do not support booting from an ISO. Please be aware that this version is now deprecated. We recommend using the latest version of [umbrelOS](https://umbrel.com/umbrelos#install) to benefit from the most recent security updates and bug fixes.
 
 ## Minimum System Requirements
 
@@ -18,7 +18,7 @@ You can use any VPS provider, such as [Google Cloud](https://cloud.google.com/),
 - **IF USING AN SSH CLIENT:** Enter the information provided by your VPS provider (IP address, username, password, SSH key, etc.) into the SSH client.
 - **IF USING A BUILT-IN TERMINAL:** Use the `ssh` command to securely access your VPS. For password-based access, run `ssh user@ip` and enter your password when prompted. For SSH key-based access, run `ssh -i ~/.ssh/ssh_key_name user@ip`.
 
-#### Step 3: Install UmbrelOS
+#### Step 3: Install umbrelOS
 - After your system boots up, run the following command:
 ```bash
 curl -L https://raw.githubusercontent.com/getumbrel/umbrel/913ff567bd6a5136586f0040e80fc99ae310fba9/scripts/install | bash
@@ -28,7 +28,10 @@ curl -L https://raw.githubusercontent.com/getumbrel/umbrel/913ff567bd6a5136586f0
 - Once the installation process is complete, visit [http://umbrel.local](http://umbrel.local) or your VPS IP address. Enter any username and password to complete the installation.
 
 > [!TIP]  
-> If you cannot access [http://umbrel.local](http://umbrel.local) and are using a Windows computer, try accessing [http://umbrel](http://umbrel). Alternatively, use your router's admin dashboard or a network scanning tool like 'Fing' to find your device's IP address on your local network. If necessary, you can connect a display and keyboard to your device, log in, and run `hostname -I` to find its IP address. Enter this IP address directly into a web browser to access UmbrelOS.
+> If you cannot access [http://umbrel.local](http://umbrel.local) and are using a Windows computer, try accessing [http://umbrel](http://umbrel). Alternatively, use your router's admin dashboard or a network scanning tool like 'Fing' to find your device's IP address on your local network. If necessary, you can connect a display and keyboard to your device, log in, and run `hostname -I` to find its IP address. Enter this IP address directly into a web browser to access umbrelOS.
+
+> [!TIP]
+> If you're having trouble accessing an application, it may be a firewall issue. To fix that, you can set the firewall in your VPS provider to allow a specific application port, or you can have it allow all ports.
 
 ## Support
 
